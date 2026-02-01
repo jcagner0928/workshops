@@ -13,6 +13,12 @@
 // Use console.log to display your story's beginning
 
 // TODO: Display your story opening here
+const playerName = "cat2";
+let experiance = 1;
+let location = "forest"; 
+
+console.log("ounce upon a time there was a adventurer named " + playerName + ".")
+console.log("He is currently in the " + location + "and had only " + experiance + " point.")
 
 
 // Step 3: Story Development
