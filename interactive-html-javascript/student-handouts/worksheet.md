@@ -22,7 +22,7 @@ Fill in the blanks.
 
 - HTML is the <span class="blank-line-short"></span> of a web page.
 - A `label` uses the <span class="blank-line-short"></span> attribute to connect to an input.
-- A <span class="blank-line-short"></span> is for short text; a <span class="blank-line-short"></span> is for longer messages.
+- An <span class="blank-line-short"></span> is for short text; a <span class="blank-line-short"></span> is for longer messages.
 
 ## 3) CSS Style Notes
 
@@ -46,6 +46,7 @@ Write the missing pieces:
 const titleInput = document.querySelector("#titleInput");
 const updatePreview = () => {
   // update text here
+
 };
 
 titleInput.addEventListener("________", updatePreview);
@@ -60,18 +61,7 @@ Plan your message box content:
 - Theme color: <span class="blank-line"></span>
 - Box size (px): <span class="blank-line-short"></span>
 
-## 7) Terminal Commands
+## 7) Reflection
 
-Write what each command does:
-
-| Command                   | What it does                                        |
-| ------------------------- | --------------------------------------------------- |
-| `git status`              | <span style="width: 368px; display: block;"></span> |
-| `git add .`               |                                                     |
-| `git commit -m "message"` |                                                     |
-| `git push`                |                                                     |
-
-## 8) Reflection
-
-- Coolest thing I made today: <span class="blank-line-long"></span>
-- One thing I want to add next time: <span class="blank-line-long"></span>
+- Coolest thing I made today: <br>&nbsp;<br> <span class="blank-line-long"></span>
+- One thing I want to add to my project: <br>&nbsp;<br> <span class="blank-line-long"></span>
